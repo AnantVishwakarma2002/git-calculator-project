@@ -5,4 +5,4 @@ This project contains a basic calculator script to demonstrate Git version contr
 ## Features
 
 * Addition function implemented.
-* **Multiplication** function implemented.
+* The **Multiplication** feature has been implemented.
